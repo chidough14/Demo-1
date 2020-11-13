@@ -1,2 +1,4 @@
 Now you can make changes to the code. The following code creates a new branch, 
 makes an arbitrary change, and pushes it to new_branch:
+
+To make sure your local branch FixForBug is not ahead of the remote branch FixForBug pull and merge the changes before pushing.
